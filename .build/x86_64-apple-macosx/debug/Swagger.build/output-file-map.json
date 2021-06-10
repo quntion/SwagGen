@@ -1,0 +1,191 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/master.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Component.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Component.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Component.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Component~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Component.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/ComponentResolver.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/ComponentResolver.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/ComponentResolver.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/ComponentResolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/ComponentResolver.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Components.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Components.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Components.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Components~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Components.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Reference.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Reference.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Reference.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Reference~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Reference.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Content.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Content.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Content.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Content~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Content.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/Contact.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Contact.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Contact.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Contact~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Contact.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/Info.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Info.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Info.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Info~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Info.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/License.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/License.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/License.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/License~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/License.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Metadata.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Metadata.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Metadata.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Metadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Metadata.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Operation.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Operation.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Operation.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Operation~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Operation.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Parameter.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Parameter.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Parameter.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Parameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Parameter.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Path.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Path.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Path.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Path~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Path.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/RequestBody.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/RequestBody.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/RequestBody.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/RequestBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/RequestBody.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Response.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Response.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Response.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Response~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Response.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/ArraySchema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ArraySchema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ArraySchema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ArraySchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ArraySchema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/DataType.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/DataType.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/DataType.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/DataType~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/DataType.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/Discriminator.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Discriminator.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Discriminator.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Discriminator~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Discriminator.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/GroupSchema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/GroupSchema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/GroupSchema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/GroupSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/GroupSchema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/IntegerSchema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/IntegerSchema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/IntegerSchema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/IntegerSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/IntegerSchema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/NumberSchema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/NumberSchema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/NumberSchema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/NumberSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/NumberSchema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/ObjectSchema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ObjectSchema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ObjectSchema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ObjectSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ObjectSchema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/Schema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Schema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Schema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Schema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Schema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/StringSchema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/StringSchema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/StringSchema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/StringSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/StringSchema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/APIKeySchema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/APIKeySchema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/APIKeySchema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/APIKeySchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/APIKeySchema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/Oauth2Schema.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/Oauth2Schema.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/Oauth2Schema.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/Oauth2Schema~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/Oauth2Schema.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/SecurityRequirement.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityRequirement.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityRequirement.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityRequirement~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityRequirement.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/SecurityScheme.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityScheme.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityScheme.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityScheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityScheme.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SerializationStyle.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SerializationStyle.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SerializationStyle.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SerializationStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SerializationStyle.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Server.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Server.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Server.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Server.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SwaggerError.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerError.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerError.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerError~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerError.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SwaggerSpec.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerSpec.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerSpec.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerSpec~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerSpec.swiftdeps"
+  }
+}

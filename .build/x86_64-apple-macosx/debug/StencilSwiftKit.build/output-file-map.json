@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/master.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/CallMacroNodes.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/CallMacroNodes.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/CallMacroNodes.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/CallMacroNodes~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/CallMacroNodes.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Context.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Context.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Context.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Context.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Environment.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Environment.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Environment.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Environment~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Environment.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters+Numbers.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Numbers.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Numbers.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Numbers~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Numbers.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters+Strings.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Strings.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Strings.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Strings~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Strings.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/MapNode.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/MapNode.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/MapNode.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/MapNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/MapNode.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Parameters.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Parameters.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Parameters.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Parameters~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Parameters.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/SetNode.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SetNode.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SetNode.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SetNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SetNode.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/StencilSwiftTemplate.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/StencilSwiftTemplate.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/StencilSwiftTemplate.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/StencilSwiftTemplate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/StencilSwiftTemplate.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/SwiftIdentifier.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SwiftIdentifier.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SwiftIdentifier.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SwiftIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SwiftIdentifier.swiftdeps"
+  }
+}

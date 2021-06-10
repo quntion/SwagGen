@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/master.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/DecodingError.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/DecodingError.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/DecodingError.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/DecodingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/DecodingError.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/Dictionary+JSONKey.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+JSONKey.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+JSONKey.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+JSONKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+JSONKey.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/Dictionary+KeyPath.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+KeyPath.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+KeyPath.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+KeyPath~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+KeyPath.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/InvalidItemBehaviour.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/InvalidItemBehaviour.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/InvalidItemBehaviour.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/InvalidItemBehaviour~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/InvalidItemBehaviour.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONFileLoading.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONFileLoading.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONFileLoading.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONFileLoading~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONFileLoading.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONObjectConvertible.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONObjectConvertible.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONObjectConvertible.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONObjectConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONObjectConvertible.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONPrimitiveConvertible.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONPrimitiveConvertible.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONPrimitiveConvertible.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONPrimitiveConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONPrimitiveConvertible.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/KeyPath.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/KeyPath.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/KeyPath.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/KeyPath~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/KeyPath.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/URL+JSONPrimitiveConvertible.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/URL+JSONPrimitiveConvertible.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/URL+JSONPrimitiveConvertible.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/URL+JSONPrimitiveConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/URL+JSONPrimitiveConvertible.swiftdeps"
+  }
+}

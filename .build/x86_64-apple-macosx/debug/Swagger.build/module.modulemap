@@ -1,0 +1,4 @@
+module Swagger {
+    header "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Swagger-Swift.h"
+    requires objc
+}

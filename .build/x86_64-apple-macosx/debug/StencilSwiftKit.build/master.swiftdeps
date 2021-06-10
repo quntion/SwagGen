@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "90fc0a4c0ec511d5b9815cbdd97c1e80"
+build_time: [1623307150, 915810000]
+inputs:
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/CallMacroNodes.swift": [1623304028, 36039775]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Context.swift": [1623304028, 36236255]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Environment.swift": [1623304028, 36422787]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters+Numbers.swift": [1623304028, 36624442]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters+Strings.swift": [1623304028, 36878264]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters.swift": [1623304028, 37074864]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/MapNode.swift": [1623304028, 37253284]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Parameters.swift": [1623304028, 37434713]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/SetNode.swift": [1623304028, 37608579]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/StencilSwiftTemplate.swift": [1623304028, 37774307]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/SwiftIdentifier.swift": [1623304028, 37951356]

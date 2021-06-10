@@ -1,0 +1,4 @@
+module StencilSwiftKit {
+    header "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/StencilSwiftKit-Swift.h"
+    requires objc
+}

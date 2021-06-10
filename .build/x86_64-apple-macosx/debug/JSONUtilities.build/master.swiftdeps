@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "25e365c168bce70bfaf613d80cba2b28"
+build_time: [1623307117, 213395000]
+inputs:
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/DecodingError.swift": [1623304029, 266507376]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/Dictionary+JSONKey.swift": [1623304029, 267032166]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/Dictionary+KeyPath.swift": [1623304029, 267250370]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/InvalidItemBehaviour.swift": [1623304029, 267419765]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONFileLoading.swift": [1623304029, 267607186]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONObjectConvertible.swift": [1623304029, 267780388]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONPrimitiveConvertible.swift": [1623304029, 267957421]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/KeyPath.swift": [1623304029, 268142146]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/URL+JSONPrimitiveConvertible.swift": [1623304029, 268310061]

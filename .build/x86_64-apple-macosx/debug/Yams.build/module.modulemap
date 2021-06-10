@@ -1,0 +1,4 @@
+module Yams {
+    header "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Yams-Swift.h"
+    requires objc
+}

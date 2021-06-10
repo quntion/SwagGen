@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/master.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/BackgroundColor.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/BackgroundColor.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/BackgroundColor.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/BackgroundColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/BackgroundColor.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/CodesParser.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/CodesParser.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/CodesParser.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/CodesParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/CodesParser.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Color.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Color.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Color.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Color~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Color.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/ControlCode.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ControlCode.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ControlCode.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ControlCode~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ControlCode.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/ModesExtractor.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ModesExtractor.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ModesExtractor.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ModesExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ModesExtractor.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/OutputTarget.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/OutputTarget.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/OutputTarget.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/OutputTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/OutputTarget.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Rainbow.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Rainbow.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Rainbow.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Rainbow~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Rainbow.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/String+Rainbow.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/String+Rainbow.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/String+Rainbow.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/String+Rainbow~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/String+Rainbow.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/StringGenerator.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/StringGenerator.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/StringGenerator.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/StringGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/StringGenerator.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Style.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Style.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Style.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Style~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Style.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/XcodeColorsSupport.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/XcodeColorsSupport.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/XcodeColorsSupport.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/XcodeColorsSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/XcodeColorsSupport.swiftdeps"
+  }
+}

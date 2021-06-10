@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "1d8337c6d89280d2a2631683c50f8076"
+build_time: [1623307116, 75052000]
+inputs:
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/BackgroundColor.swift": [1623304029, 456305379]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/CodesParser.swift": [1623304029, 456512872]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Color.swift": [1623304029, 456684810]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/ControlCode.swift": [1623304029, 456998822]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/ModesExtractor.swift": [1623304029, 457274363]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/OutputTarget.swift": [1623304029, 457661178]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Rainbow.swift": [1623304029, 457982346]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/String+Rainbow.swift": [1623304029, 458231986]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/StringGenerator.swift": [1623304029, 458405688]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Style.swift": [1623304029, 458563164]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/XcodeColorsSupport.swift": [1623304029, 458748492]

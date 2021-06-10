@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "26b12df1098605184ab9c82585ddc716"
+build_time: [1623307117, 165936000]
+inputs:
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/PathKit/Sources/PathKit.swift": [1623304028, 268999999]

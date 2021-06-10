@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "255e69111a2f093d1226c7898787051b"
+build_time: [1623307152, 620622000]
+inputs:
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/CodeFormatter.swift": [1623123782, 267185484]
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/Generator.swift": [1623123782, 267439792]
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwagGenStencilTemplate.swift": [1623123782, 267634327]
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwaggerExtensions.swift": [1623123782, 267798058]
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwiftFormatter.swift": [1623123782, 267991491]
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/TemplateConfig.swift": [1623123782, 268163332]
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/Utilities.swift": [1623123782, 268330671]

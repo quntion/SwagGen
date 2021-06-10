@@ -1,0 +1,4 @@
+module SwiftCLI {
+    header "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/SwiftCLI-Swift.h"
+    requires objc
+}

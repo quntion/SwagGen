@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/master.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/CodeFormatter.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/CodeFormatter.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/CodeFormatter.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/CodeFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/CodeFormatter.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/Generator.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Generator.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Generator.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Generator~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Generator.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwagGenStencilTemplate.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwagGenStencilTemplate.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwagGenStencilTemplate.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwagGenStencilTemplate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwagGenStencilTemplate.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwaggerExtensions.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwaggerExtensions.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwaggerExtensions.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwaggerExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwaggerExtensions.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwiftFormatter.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwiftFormatter.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwiftFormatter.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwiftFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwiftFormatter.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/TemplateConfig.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/TemplateConfig.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/TemplateConfig.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/TemplateConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/TemplateConfig.swiftdeps"
+  },
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/Utilities.swift": {
+    "dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Utilities.d",
+    "object": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Utilities.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Utilities.swiftdeps"
+  }
+}

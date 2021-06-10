@@ -1,0 +1,2242 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenPackageTests.xctest/Contents/MacOS/SwagGenPackageTests",
+      "packageName" : "SwagGen",
+      "productName" : "SwagGenPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftCommands" : {
+    "C.JSONUtilities-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/DecodingError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/Dictionary+JSONKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/Dictionary+KeyPath.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/InvalidItemBehaviour.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONFileLoading.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONObjectConvertible.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONPrimitiveConvertible.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/KeyPath.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/URL+JSONPrimitiveConvertible.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "JSONUtilities",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/DecodingError.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+JSONKey.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+KeyPath.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/InvalidItemBehaviour.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONFileLoading.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONObjectConvertible.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONPrimitiveConvertible.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/KeyPath.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/URL+JSONPrimitiveConvertible.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONUtilities-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/DecodingError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+JSONKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/Dictionary+KeyPath.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/InvalidItemBehaviour.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONFileLoading.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONObjectConvertible.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/JSONPrimitiveConvertible.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/KeyPath.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build/URL+JSONPrimitiveConvertible.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/DecodingError.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/Dictionary+JSONKey.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/Dictionary+KeyPath.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/InvalidItemBehaviour.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONFileLoading.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONObjectConvertible.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/JSONPrimitiveConvertible.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/KeyPath.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/JSONUtilities/Sources/JSONUtilities/URL+JSONPrimitiveConvertible.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.build",
+      "WMO" : false
+    },
+    "C.PathKit-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/PathKit/Sources/PathKit.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PathKit",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.build/PathKit.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.build/PathKit-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.build/PathKit.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/PathKit/Sources/PathKit.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.build",
+      "WMO" : false
+    },
+    "C.Rainbow-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/BackgroundColor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/CodesParser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Color.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/ControlCode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/ModesExtractor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/OutputTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Rainbow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/String+Rainbow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/StringGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Style.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/XcodeColorsSupport.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Rainbow",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/BackgroundColor.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/CodesParser.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Color.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ControlCode.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ModesExtractor.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/OutputTarget.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Rainbow.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/String+Rainbow.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/StringGenerator.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Style.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/XcodeColorsSupport.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Rainbow-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/BackgroundColor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/CodesParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ControlCode.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/ModesExtractor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/OutputTarget.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Rainbow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/String+Rainbow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/StringGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Style.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/XcodeColorsSupport.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/BackgroundColor.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/CodesParser.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Color.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/ControlCode.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/ModesExtractor.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/OutputTarget.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Rainbow.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/String+Rainbow.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/StringGenerator.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/Style.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Rainbow/Sources/XcodeColorsSupport.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build",
+      "WMO" : false
+    },
+    "C.Spectre-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Case.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Context.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Expectation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Failure.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Global.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/GlobalContext.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Reporter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Reporters.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/XCTest.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Spectre",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Case.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Context.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Expectation.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Failure.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Global.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/GlobalContext.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Reporter.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Reporters.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/XCTest.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Spectre-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Case.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Context.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Expectation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Failure.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Global.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/GlobalContext.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Reporter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/Reporters.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build/XCTest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Case.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Context.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Expectation.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Failure.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Global.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/GlobalContext.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Reporter.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/Reporters.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Spectre/Sources/Spectre/XCTest.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.build",
+      "WMO" : false
+    },
+    "C.Stencil-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Context.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Environment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Errors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Expression.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Extension.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/FilterTag.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Filters.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/ForTag.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/IfTag.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Include.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Inheritence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/KeyPath.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Lexer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Loader.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Node.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/NowTag.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Parser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Template.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Tokenizer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Variable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Stencil",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Context.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Environment.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Errors.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Expression.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Extension.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/FilterTag.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Filters.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/ForTag.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/IfTag.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Include.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Inheritence.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/KeyPath.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Lexer.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Loader.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Node.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/NowTag.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Parser.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Template.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Tokenizer.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Variable.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Stencil-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Context.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Environment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Errors.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Expression.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Extension.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/FilterTag.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Filters.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/ForTag.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/IfTag.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Include.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Inheritence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/KeyPath.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Lexer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Loader.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Node.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/NowTag.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Parser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Template.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Tokenizer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build/Variable.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Context.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Environment.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Errors.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Expression.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Extension.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/FilterTag.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Filters.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/ForTag.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/IfTag.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Include.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Inheritence.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/KeyPath.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Lexer.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Loader.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Node.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/NowTag.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Parser.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Template.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Tokenizer.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Stencil/Sources/Variable.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.build",
+      "WMO" : false
+    },
+    "C.StencilSwiftKit-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/CallMacroNodes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Context.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Environment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters+Numbers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters+Strings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/MapNode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Parameters.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/SetNode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/StencilSwiftTemplate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/SwiftIdentifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Stencil.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "StencilSwiftKit",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/CallMacroNodes.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Context.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Environment.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Numbers.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Strings.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/MapNode.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Parameters.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SetNode.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/StencilSwiftTemplate.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SwiftIdentifier.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/StencilSwiftKit-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/CallMacroNodes.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Context.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Environment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Numbers.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters+Strings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Filters.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/MapNode.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/Parameters.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SetNode.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/StencilSwiftTemplate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build/SwiftIdentifier.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/CallMacroNodes.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Context.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Environment.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters+Numbers.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters+Strings.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Filters.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/MapNode.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/Parameters.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/SetNode.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/StencilSwiftTemplate.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/StencilSwiftKit/Sources/StencilSwiftKit/SwiftIdentifier.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.build",
+      "WMO" : false
+    },
+    "C.SwagGen-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGen/GenerateCommand.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGen/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "SwagGen",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGen.build/SwagGen.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGen.build/GenerateCommand.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGen.build/main.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGen.build/GenerateCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGen.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGen.build/SwagGen.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGen/GenerateCommand.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGen/main.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGen.build",
+      "WMO" : false
+    },
+    "C.SwagGenKit-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/CodeFormatter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/Generator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwagGenStencilTemplate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwaggerExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwiftFormatter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/TemplateConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/Utilities.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/StencilSwiftKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SwagGenKit",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/CodeFormatter.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Generator.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwagGenStencilTemplate.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwaggerExtensions.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwiftFormatter.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/TemplateConfig.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Utilities.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwagGenKit-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/CodeFormatter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Generator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwagGenStencilTemplate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwaggerExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/SwiftFormatter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/TemplateConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build/Utilities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/CodeFormatter.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/Generator.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwagGenStencilTemplate.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwaggerExtensions.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/SwiftFormatter.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/TemplateConfig.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGenKit/Utilities.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.build",
+      "WMO" : false
+    },
+    "C.SwagGenKitTests-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Tests/SwagGenKitTests/FixtureTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Tests/SwagGenKitTests/GeneratorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Tests/SwagGenKitTests/XCTestManifests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SwagGenKitTests",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.build/FixtureTests.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.build/GeneratorTests.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.build/XCTestManifests.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.15",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.build/FixtureTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.build/GeneratorTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.build/XCTestManifests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/Tests/SwagGenKitTests/FixtureTests.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Tests/SwagGenKitTests/GeneratorTests.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Tests/SwagGenKitTests/XCTestManifests.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwagGenKitTests.build",
+      "WMO" : false
+    },
+    "C.Swagger-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Component.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/ComponentResolver.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Components.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Reference.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Content.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/Contact.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/Info.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/License.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Metadata.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Operation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Parameter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Path.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/RequestBody.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Response.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/ArraySchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/DataType.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/Discriminator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/GroupSchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/IntegerSchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/NumberSchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/ObjectSchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/Schema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/StringSchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/APIKeySchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/Oauth2Schema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/SecurityRequirement.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/SecurityScheme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SerializationStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Server.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SwaggerError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SwaggerSpec.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/JSONUtilities.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/PathKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Swagger",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Component.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/ComponentResolver.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Components.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Reference.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Content.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Contact.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Info.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/License.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Metadata.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Operation.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Parameter.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Path.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/RequestBody.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Response.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ArraySchema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/DataType.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Discriminator.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/GroupSchema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/IntegerSchema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/NumberSchema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ObjectSchema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Schema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/StringSchema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/APIKeySchema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/Oauth2Schema.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityRequirement.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityScheme.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SerializationStyle.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Server.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerError.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerSpec.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Swagger-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Component.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/ComponentResolver.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Components.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Component/Reference.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Content.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Contact.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/Info.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Info/License.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Metadata.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Operation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Parameter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Path.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/RequestBody.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Response.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ArraySchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/DataType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Discriminator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/GroupSchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/IntegerSchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/NumberSchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/ObjectSchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/Schema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Schema/StringSchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/APIKeySchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/Oauth2Schema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityRequirement.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Security/SecurityScheme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SerializationStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/Server.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build/SwaggerSpec.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Component.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/ComponentResolver.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Components.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Component/Reference.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Content.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/Contact.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/Info.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Info/License.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Metadata.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Operation.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Parameter.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Path.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/RequestBody.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Response.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/ArraySchema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/DataType.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/Discriminator.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/GroupSchema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/IntegerSchema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/NumberSchema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/ObjectSchema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/Schema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Schema/StringSchema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/APIKeySchema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/Oauth2Schema.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/SecurityRequirement.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Security/SecurityScheme.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SerializationStyle.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/Server.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SwaggerError.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Sources/Swagger/SwaggerSpec.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.build",
+      "WMO" : false
+    },
+    "C.SwaggerTests-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Tests/SwaggerTests/ParsingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Tests/SwaggerTests/SpecTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/Tests/SwaggerTests/XCTestManifests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Swagger.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Spectre.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SwaggerTests",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.build/ParsingTests.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.build/SpecTests.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.build/XCTestManifests.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.15",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.build/ParsingTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.build/SpecTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.build/XCTestManifests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/Tests/SwaggerTests/ParsingTests.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Tests/SwaggerTests/SpecTests.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/Tests/SwaggerTests/XCTestManifests.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwaggerTests.build",
+      "WMO" : false
+    },
+    "C.SwiftCLI-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/ArgumentList.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/ArgumentListManipulator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/CLI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Command.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Compatibility.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/CompletionGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Error.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/HelpCommand.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/HelpMessageGenerator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Input.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Option.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/OptionGroup.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/OptionRegistry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Parameter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Parser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Path.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Stream.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Task.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Term.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Validation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/ValueBox.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/VersionCommand.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SwiftCLI",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/ArgumentList.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/ArgumentListManipulator.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/CLI.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Command.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Compatibility.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/CompletionGenerator.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Error.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/HelpCommand.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/HelpMessageGenerator.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Input.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Option.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/OptionGroup.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/OptionRegistry.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Parameter.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Parser.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Path.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Stream.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Task.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Term.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Validation.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/ValueBox.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/VersionCommand.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/SwiftCLI-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/ArgumentList.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/ArgumentListManipulator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/CLI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Command.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Compatibility.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/CompletionGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Error.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/HelpCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/HelpMessageGenerator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Input.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Option.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/OptionGroup.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/OptionRegistry.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Parameter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Parser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Path.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Stream.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Task.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Term.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/Validation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/ValueBox.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build/VersionCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/ArgumentList.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/ArgumentListManipulator.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/CLI.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Command.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Compatibility.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/CompletionGenerator.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Error.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/HelpCommand.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/HelpMessageGenerator.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Input.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Option.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/OptionGroup.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/OptionRegistry.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Parameter.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Parser.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Path.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Stream.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Task.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Term.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/Validation.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/ValueBox.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/SwiftCLI/Sources/SwiftCLI/VersionCommand.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/SwiftCLI.build",
+      "WMO" : false
+    },
+    "C.Yams-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Constructor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Decoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Emitter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Encoder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Mark.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Mapping.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Scalar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Sequence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Parser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Representer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Resolver.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/String+Yams.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Tag.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/YamlError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/CYaml.build/src/api.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/CYaml.build/src/emitter.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/CYaml.build/src/parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/CYaml.build/src/reader.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/CYaml.build/src/scanner.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/CYaml.build/src/writer.c.o"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Yams",
+      "moduleOutputPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Constructor.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Decoder.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Emitter.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Encoder.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Mark.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Node.Mapping.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Node.Scalar.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Node.Sequence.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Node.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Parser.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Representer.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Resolver.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/String+Yams.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Tag.swift.o",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/YamlError.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/CYaml/include",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Yams-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Constructor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Decoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Emitter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Encoder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Mark.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Node.Mapping.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Node.Scalar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Node.Sequence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Node.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Parser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Representer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Resolver.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/String+Yams.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/Tag.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build/YamlError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Constructor.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Decoder.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Emitter.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Encoder.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Mark.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Mapping.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Scalar.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Sequence.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Parser.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Representer.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Resolver.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/String+Yams.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Tag.swift",
+        "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/YamlError.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Yams.build",
+      "WMO" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

@@ -1,0 +1,4 @@
+module Rainbow {
+    header "/Users/mac/Desktop/Projects/SwagGen/.build/x86_64-apple-macosx/debug/Rainbow.build/Rainbow-Swift.h"
+    requires objc
+}

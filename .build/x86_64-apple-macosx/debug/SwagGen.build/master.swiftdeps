@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "02149bd06ed204d2866d173c26c5d048"
+build_time: [1623307154, 360755000]
+inputs:
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGen/GenerateCommand.swift": [1623123782, 266695407]
+  "/Users/mac/Desktop/Projects/SwagGen/Sources/SwagGen/main.swift": [1623123782, 266853978]

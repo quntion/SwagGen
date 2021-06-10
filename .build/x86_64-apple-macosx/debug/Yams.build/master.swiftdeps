@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "6283b4c91bf3438a4aacc91d0b915b4d"
+build_time: [1623307117, 540093000]
+inputs:
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Constructor.swift": [1623304028, 656045940]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Decoder.swift": [1623304028, 656939302]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Emitter.swift": [1623304028, 657335439]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Encoder.swift": [1623304028, 657623084]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Mark.swift": [1623304028, 657807392]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Mapping.swift": [1623304028, 658042356]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Scalar.swift": [1623304028, 658236721]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.Sequence.swift": [1623304028, 658409115]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Node.swift": [1623304028, 658633040]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Parser.swift": [1623304028, 658871332]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Representer.swift": [1623304028, 659070521]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Resolver.swift": [1623304028, 659243332]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/String+Yams.swift": [1623304028, 659411655]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/Tag.swift": [1623304028, 659606263]
+  "/Users/mac/Desktop/Projects/SwagGen/.build/checkouts/Yams/Sources/Yams/YamlError.swift": [1623304028, 659908886]
